@@ -1,0 +1,27 @@
+﻿Brax Waller
+COMC1714 Entities Worksheet
+ 
+Business transactions:
+ Invoice (InvoiceId, SkaterId, Date)
+Transaction line items:
+ Custom Board(BoardId, SkaterId, Size, Shape) 
+Product or service related to a transaction:
+  Custom Board(BoardId, SkaterId, Size, Shape) 
+Roles of people:
+ Designer(DesignerId, ShopId, FName, LName, Phone)
+Skater(SkaterId, DesignerId, FName, LName, Phone)
+Place of transaction or service:
+ SkateShop(ShopId, City, State, Phone)
+Noteworth events:
+ 
+Physical objects:
+   Custom Board(BoardId, SkaterId, Size, Shape) 
+Locations:
+  SkateShop(ShopId, City, State, Phone)
+Descriptions of things (text, unit of measurement, time period, etc.):
+ 
+Catalogs:
+ 
+Containers of other things:
+ 
+Things in a container:

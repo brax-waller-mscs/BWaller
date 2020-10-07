@@ -1,0 +1,12 @@
+﻿Brax Waller
+Ex1I
+User Stories
+
+
+As a local skate shop, the goal is to produce custom skateboards for skaters, while maintaining an organized list of invoices.
+
+
+As a skater, I want to customize a skateboard that meets my specific skating style and needs.
+
+
+As a designer, I want to create custom skateboard graphics/designs for skaters.
