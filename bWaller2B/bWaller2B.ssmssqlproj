@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="bWaller2A">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="bWaller2B">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-H2RG6Q0\MSSQLSERVER01:DESKTOP-H2RG6Q0\braxd">
-          <Created>2020-10-11T21:43:10.5148004-05:00</Created>
+          <Created>2020-10-17T17:30:02.9562775-05:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-H2RG6Q0\MSSQLSERVER01</Server>
           <UserName />
@@ -19,63 +19,33 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="Ex1A.sql">
+        <FileNode Name="Ex2B.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-H2RG6Q0\MSSQLSERVER01:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-H2RG6Q0\MSSQLSERVER01</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Ex1A.sql</FullPath>
+          <FullPath>Ex2B.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
       <Items>
-        <FileNode Name="2a.1.JPG">
+        <FileNode Name="1.JPG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>2a.1.JPG</FullPath>
+          <FullPath>1.JPG</FullPath>
         </FileNode>
-        <FileNode Name="2a.2.JPG">
+        <FileNode Name="2.JPG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>2a.2.JPG</FullPath>
+          <FullPath>2.JPG</FullPath>
         </FileNode>
-        <FileNode Name="2a.3.JPG">
+        <FileNode Name="3.JPG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>2a.3.JPG</FullPath>
-        </FileNode>
-        <FileNode Name="2a.4.JPG">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>2a.4.JPG</FullPath>
-        </FileNode>
-        <FileNode Name="2a.7.JPG">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>2a.7.JPG</FullPath>
-        </FileNode>
-        <FileNode Name="2a.8.JPG">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>2a.8.JPG</FullPath>
-        </FileNode>
-        <FileNode Name="2a.9.JPG">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>2a.9.JPG</FullPath>
-        </FileNode>
-        <FileNode Name="FK Relation Table_Waller2A.JPG">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>FK Relation Table_Waller2A.JPG</FullPath>
+          <FullPath>3.JPG</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

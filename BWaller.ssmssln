@@ -5,13 +5,19 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "bWaller1I", "bWaller1I\bWaller1I.ssmssqlproj", "{C5D4E623-E9CC-46CA-8444-9443D6204D9F}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "bWaller2A", "bWaller2A\bWaller2A.ssmssqlproj", "{E22B50A0-ECD9-4234-A588-F16C9E474CCC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "bWaller2B", "bWaller2B\bWaller2B.ssmssqlproj", "{30C0D280-828A-4C21-A120-6F417A685B3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3BD7EF3F-BE48-4C46-93B9-41BEE6C8D69E}.Default|Default.ActiveCfg = Default
 		{C5D4E623-E9CC-46CA-8444-9443D6204D9F}.Default|Default.ActiveCfg = Default
+		{E22B50A0-ECD9-4234-A588-F16C9E474CCC}.Default|Default.ActiveCfg = Default
+		{760C250D-7F74-4DA6-A888-24A6764A8001}.Default|Default.ActiveCfg = Default
+		{30C0D280-828A-4C21-A120-6F417A685B3F}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
