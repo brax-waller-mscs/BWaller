@@ -47,6 +47,42 @@
           <AssociatedConnUserName />
           <FullPath>3.JPG</FullPath>
         </FileNode>
+        <FileNode Name="4.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>4.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="5.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>5.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="6.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>6.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="7.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>7.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="8.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>8.JPG</FullPath>
+        </FileNode>
+        <FileNode Name="9.JPG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>9.JPG</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
   </Items>
