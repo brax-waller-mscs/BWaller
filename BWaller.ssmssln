@@ -15,6 +15,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "bWaller2E", "bWaller2E\bWal
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "AnimalShelter2F2", "AnimalShelter2F2\AnimalShelter2F2.ssmssqlproj", "{19A4B388-12A7-42A3-B89A-B3D70E8D272A}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "bWaller2G", "bWaller2G\bWaller2G.ssmssqlproj", "{22051856-4865-4BBF-BAED-BF7E2B9D5D31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -25,8 +27,9 @@ Global
 		{30C0D280-828A-4C21-A120-6F417A685B3F}.Default|Default.ActiveCfg = Default
 		{E5406043-8EB6-40A0-9D6C-B224EE62C6D6}.Default|Default.ActiveCfg = Default
 		{707FAC09-9849-4D19-B6A7-4D77FED25820}.Default|Default.ActiveCfg = Default
-		{6C683684-2704-4800-9701-3CA3FCBDD739}.Default|Default.ActiveCfg = Default
 		{19A4B388-12A7-42A3-B89A-B3D70E8D272A}.Default|Default.ActiveCfg = Default
+		{7B65C58B-24B4-4991-AC38-646704E6E5A3}.Default|Default.ActiveCfg = Default
+		{22051856-4865-4BBF-BAED-BF7E2B9D5D31}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
