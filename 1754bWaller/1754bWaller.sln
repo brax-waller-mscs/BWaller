@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1754bWaller2F", "1754bWalle
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1714bwaller2G", "..\1714bwaller2G\1714bwaller2G.vbproj", "{C782E081-29A0-49B4-916C-6835D45605EB}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1714bWaller2H", "1714bWaller2H\1714bWaller2H.vbproj", "{632AC42A-BA60-42E4-92DC-338E7BFEB788}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C782E081-29A0-49B4-916C-6835D45605EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C782E081-29A0-49B4-916C-6835D45605EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C782E081-29A0-49B4-916C-6835D45605EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632AC42A-BA60-42E4-92DC-338E7BFEB788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632AC42A-BA60-42E4-92DC-338E7BFEB788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632AC42A-BA60-42E4-92DC-338E7BFEB788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632AC42A-BA60-42E4-92DC-338E7BFEB788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
