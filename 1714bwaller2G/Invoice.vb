@@ -10,17 +10,13 @@
 Imports System
 Imports System.Collections.Generic
 
-Namespace _1714bwaller2G
+Partial Public Class Invoice
+    Public Property Id As Integer
+    Public Property InvoiceDate As Date
+    Public Property DueDate As Date
 
-    Partial Public Class Invoice
-        Public Property Id As Integer
-        Public Property InvoiceDate As Date
-        Public Property DueDate As Date
-    
-        Public Overridable Property Apartment As Apartment
-        Public Overridable Property LineItems As ICollection(Of LineItem) = New HashSet(Of LineItem)
-        Public Overridable Property Receipts As ICollection(Of Receipt) = New HashSet(Of Receipt)
-    
-    End Class
+    Public Overridable Property Apartment As Apartment
+    Public Overridable Property LineItems As ICollection(Of LineItem) = New HashSet(Of LineItem)
+    Public Overridable Property Receipts As ICollection(Of Receipt) = New HashSet(Of Receipt)
 
-End Namespace
+End Class

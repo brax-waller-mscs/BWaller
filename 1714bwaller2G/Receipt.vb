@@ -10,15 +10,11 @@
 Imports System
 Imports System.Collections.Generic
 
-Namespace _1714bwaller2G
+Partial Public Class Receipt
+    Public Property Id As Integer
+    Public Property ReceiptDate As Date
+    Public Property Amount As Decimal
 
-    Partial Public Class Receipt
-        Public Property Id As Integer
-        Public Property ReceiptDate As Date
-        Public Property Amount As Decimal
-    
-        Public Overridable Property Invoice As Invoice
-    
-    End Class
+    Public Overridable Property Invoice As Invoice
 
-End Namespace
+End Class

@@ -10,20 +10,16 @@
 Imports System
 Imports System.Collections.Generic
 
-Namespace _1714bwaller2G
+Partial Public Class Apartment
+    Public Property Id As Integer
+    Public Property ApartmentNum As String
+    Public Property SquareFeet As Integer
+    Public Property Bathrooms As Integer
+    Public Property Rent As Decimal
 
-    Partial Public Class Apartment
-        Public Property Id As Integer
-        Public Property ApartmentNum As String
-        Public Property SquareFeet As Integer
-        Public Property Bathrooms As Integer
-        Public Property Rent As Decimal
-    
-        Public Overridable Property Building As Building
-        Public Overridable Property Tenant As Person
-        Public Overridable Property Admin As Person
-        Public Overridable Property Invoices As ICollection(Of Invoice) = New HashSet(Of Invoice)
-    
-    End Class
+    Public Overridable Property Building As Building
+    Public Overridable Property Tenant As Person
+    Public Overridable Property Admin As Person
+    Public Overridable Property Invoices As ICollection(Of Invoice) = New HashSet(Of Invoice)
 
-End Namespace
+End Class

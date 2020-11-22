@@ -1,0 +1,16 @@
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\1714bwaller2G.dll.config
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\1714bwaller2G.dll
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\1714bwaller2G.pdb
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\1714bwaller2G.xml
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\EntityFramework.dll
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\EntityFramework.xml
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\1714bwaller2G.vbprojAssemblyReference.cache
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\_1714bwaller2G.Resources.resources
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\1714bwaller2G.vbproj.GenerateResource.cache
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\1714bwaller2G.vbproj.CoreCompileInputs.cache
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\1714bwaller2G.vbproj.CopyComplete
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\1714bwaller2G.dll
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\1714bwaller2G.xml
+C:\Users\braxd\OneDrive\Desktop\Fall 20\Visual Database\BWaller\1714bwaller2G\obj\Release\1714bwaller2G.pdb

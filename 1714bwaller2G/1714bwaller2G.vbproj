@@ -136,6 +136,14 @@
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
+    <None Include="My Project\DataSources\_1714bwaller2G.My.MySettings.datasource" />
+    <None Include="My Project\DataSources\_1714bwaller2G._1714bwaller2G.Apartment.datasource" />
+    <None Include="My Project\DataSources\_1714bwaller2G._1714bwaller2G.Building.datasource" />
+    <None Include="My Project\DataSources\_1714bwaller2G._1714bwaller2G.Invoice.datasource" />
+    <None Include="My Project\DataSources\_1714bwaller2G._1714bwaller2G.LineItem.datasource" />
+    <None Include="My Project\DataSources\_1714bwaller2G._1714bwaller2G.Person.datasource" />
+    <None Include="My Project\DataSources\_1714bwaller2G._1714bwaller2G.PropertyManager2ModelContainer.datasource" />
+    <None Include="My Project\DataSources\_1714bwaller2G._1714bwaller2G.Receipt.datasource" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>

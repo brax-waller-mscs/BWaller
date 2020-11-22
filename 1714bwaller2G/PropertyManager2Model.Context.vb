@@ -11,26 +11,22 @@ Imports System
 Imports System.Data.Entity
 Imports System.Data.Entity.Infrastructure
 
-Namespace _1714bwaller2G
+Partial Public Class PropertyManager2ModelContainer
+    Inherits DbContext
 
-    Partial Public Class PropertyManager2ModelContainer
-        Inherits DbContext
-    
-        Public Sub New()
-            MyBase.New("name=PropertyManager2ModelContainer")
-        End Sub
-    
-        Protected Overrides Sub OnModelCreating(modelBuilder As DbModelBuilder)
-            Throw New UnintentionalCodeFirstException()
-        End Sub
-    
-        Public Overridable Property Buildings() As DbSet(Of Building)
-        Public Overridable Property Apartments() As DbSet(Of Apartment)
-        Public Overridable Property People() As DbSet(Of Person)
-        Public Overridable Property LineItems() As DbSet(Of LineItem)
-        Public Overridable Property Invoices() As DbSet(Of Invoice)
-        Public Overridable Property Receipts() As DbSet(Of Receipt)
-    
-    End Class
+    Public Sub New()
+        MyBase.New("name=PropertyManager2ModelContainer")
+    End Sub
 
-End Namespace
+    Protected Overrides Sub OnModelCreating(modelBuilder As DbModelBuilder)
+        Throw New UnintentionalCodeFirstException()
+    End Sub
+
+    Public Overridable Property Buildings() As DbSet(Of Building)
+    Public Overridable Property Apartments() As DbSet(Of Apartment)
+    Public Overridable Property People() As DbSet(Of Person)
+    Public Overridable Property LineItems() As DbSet(Of LineItem)
+    Public Overridable Property Invoices() As DbSet(Of Invoice)
+    Public Overridable Property Receipts() As DbSet(Of Receipt)
+
+End Class

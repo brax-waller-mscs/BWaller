@@ -10,18 +10,14 @@
 Imports System
 Imports System.Collections.Generic
 
-Namespace _1714bwaller2G
+Partial Public Class Person
+    Public Property Id As Integer
+    Public Property FirstName As String
+    Public Property LastName As String
+    Public Property Phone As String
+    Public Property Email As String
 
-    Partial Public Class Person
-        Public Property Id As Integer
-        Public Property FirstName As String
-        Public Property LastName As String
-        Public Property Phone As String
-        Public Property Email As String
-    
-        Public Overridable Property Apartments As ICollection(Of Apartment) = New HashSet(Of Apartment)
-        Public Overridable Property Apartments1 As ICollection(Of Apartment) = New HashSet(Of Apartment)
-    
-    End Class
+    Public Overridable Property Apartments As ICollection(Of Apartment) = New HashSet(Of Apartment)
+    Public Overridable Property Apartments1 As ICollection(Of Apartment) = New HashSet(Of Apartment)
 
-End Namespace
+End Class
